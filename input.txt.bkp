@@ -1,6 +1,5 @@
-USER=CRAP1=""
-RUNASUSER=CRAP="cdsone"
-RUN="brian"
+This is my test case
 
-AUSER=CRAP=""
-runner
+RUNUSERAS=""
+USER=""
+RUN="brian"

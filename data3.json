@@ -11,9 +11,9 @@
         "stringoutput": "RUN=\"brian\""
         },
         {
-            "inputfile": "input.txt",
-            "stringinput": "USER",
-            "stringoutput": "USER=CRAP"
+        "inputfile": "input.txt",
+        "stringinput": "USER",
+        "stringoutput": "USER=CRAP"
         }
     ]    
 }
