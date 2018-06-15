@@ -1,0 +1,5 @@
+{ 
+    "inputfile": "input.txt",
+    "stringinput": "RUNASUSER=\"\"",
+    "stringoutput": "RUNASUSER=\"cdsone\""
+}

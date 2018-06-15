@@ -1,0 +1,6 @@
+USER=CRAP=CRAP1=""
+RUNASUSER=CRAP=CRAP="cdsone"
+RUN="brian"
+
+AUSER=CRAP=CRAP=""
+runner

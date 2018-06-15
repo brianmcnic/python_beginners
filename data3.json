@@ -1,0 +1,19 @@
+{
+    "file": [
+        {
+        "inputfile": "input.txt",
+        "stringinput": "RUNASUSER=\"\"",
+        "stringoutput": "RUNASUSER=\"cdsone\""
+        },  
+        {
+        "inputfile": "input.txt",
+        "stringinput": "RUN=\"\"",
+        "stringoutput": "RUN=\"brian\""
+        },
+        {
+            "inputfile": "input.txt",
+            "stringinput": "USER",
+            "stringoutput": "USER=CRAP"
+        }
+    ]    
+}
